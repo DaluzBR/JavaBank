@@ -17,12 +17,12 @@ O método configuracao() da classe CaixaEletronico24Hs realiza uma pré-configur
 <p>* Consultar extrato.</p>
 <p>* Saque.</p>
 <p>* Depósito.</p>
-<p>* Tranferência interna (mesmo banco).</p>
-<p>* Tranferência externa (entre bancos).</p>
+<p>* Transferência interna (mesmo banco).</p>
+<p>* Transferência externa (entre bancos).</p>
 
 ### Aviso
 
-<p>O presente repositório trata-se de um exemplo de projeto para meu próprio aprendizado. Portanto, os arquivos aqui presentes são disponibilizados "como estão". Caso o leitor tenha algum interesse neste repositório, tenha em mente que de forma alguma o criador deste repositório se responsabiliza por qualquer dano, prejuízo ou adversidades que o leitor venha a ter em decorrência do suposto uso do material aqui presente. Caso o leitor queira usar o material presente neste repositório, o mesmo deve ter também em mente que é por sua própria conta e risco.</p>
+<p>O presente repositório trata-se de um exemplo de projeto para meu próprio aprendizado. Portanto, os arquivos aqui presentes são disponibilizados "como estão". Caso o leitor tenha algum interesse neste repositório, tenha em mente que de forma alguma o criador deste repositório se responsabiliza por qualquer dano, prejuízo ou adversidades que o leitor venha a ter em decorrência do suposto uso do material aqui presente. Caso o leitor(a) queira usar o material presente neste repositório, o mesmo deve ter também em mente que é por sua própria conta e risco.</p>
 
 ### Requisitos
 
